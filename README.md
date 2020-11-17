@@ -30,4 +30,6 @@ https://stackoverflow.com/questions/21145621/css-transition-opacity-fade-backgro
 
 https://mdbootstrap.com/plugins/jquery/gallery/
 
+Image used for side expandable banner
+https://www.pexels.com/photo/red-lights-in-line-on-black-surface-158826
 

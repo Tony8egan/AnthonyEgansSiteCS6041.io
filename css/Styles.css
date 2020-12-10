@@ -37,6 +37,11 @@ body
   overflow-x:hidden;
 }
 
+.imageButtonText
+{
+  background-color: rgba(0, 0, 0, 0.481);
+  padding:4px;
+}
 
 .imageButton
 {
@@ -179,6 +184,7 @@ body
   overflow-x: hidden;
   transition: 0.5s;
   padding-top: 65px;
+  font-size: larger;
 
 }
 
@@ -191,11 +197,22 @@ body
   transition: 0.3s;
   cursor: pointer;
 }
-
+.desctiptiveText
+{
+  font-family: Arial;
+}
 .audio-container {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.video-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  
 }
 
 

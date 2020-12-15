@@ -50,6 +50,8 @@ https://stackoverflow.com/questions/46163065/github-pages-website-favicon-not-sh
 https://fonts.google.com/specimen/Titillium+Web?sidebar.open=true&selection.family=Titillium+Web
 
 
+Sketch was used to design the project button/background pics
+https://www.sketch.com/
 
 ————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 ——————————————————————————————————
